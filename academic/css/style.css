@@ -1,0 +1,52 @@
+.admintitle
+{
+
+background-color:rgb(255,20,147);
+color:black;
+margin-left: 50px;
+margin-right: 50px;
+height: 140px;
+padding-top: 60px;
+
+
+
+
+
+}
+.dashboard
+{
+  background-color: rgb(155, 89, 182);
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 25px;
+
+}
+.tdashboard
+{
+  background-color:rgb(93, 173, 226);
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 25px;
+
+}
+a{ text-decoration: none;
+font-size: 20px;
+
+
+}
+
+.bt{border-radius: 25px;
+border: 1px solid #609;
+width: 180px;
+font-size:20px ;
+background-color: aquamarine;padding: 5px 10px;}
+
+.up{width:180px;
+            height:30px;
+            border:1px;
+            border-radius: 20px;
+            padding: 6px 23px;
+               font-size: 26px;
+               background: transparent;
+               color: rgb(197, 202, 202);
+               border: 1px solid #609;}
